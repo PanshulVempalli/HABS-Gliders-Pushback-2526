@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Source+Sans+3:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 222 40% 13%;
+    --foreground: 40 30% 90%;
+
+    --card: 222 35% 17%;
+    --card-foreground: 40 30% 90%;
+
+    --popover: 222 35% 17%;
+    --popover-foreground: 40 30% 90%;
+
+    --primary: 40 40% 85%;
+    --primary-foreground: 222 40% 13%;
+
+    --secondary: 222 30% 22%;
+    --secondary-foreground: 40 30% 90%;
+
+    --muted: 222 25% 20%;
+    --muted-foreground: 220 15% 55%;
+
+    --accent: 35 60% 65%;
+    --accent-foreground: 222 40% 10%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 222 25% 25%;
+    --input: 222 25% 25%;
+    --ring: 40 40% 85%;
+
+    --radius: 0.75rem;
+
+    --sidebar-background: 222 40% 10%;
+    --sidebar-foreground: 40 30% 90%;
+    --sidebar-primary: 40 40% 85%;
+    --sidebar-primary-foreground: 222 40% 13%;
+    --sidebar-accent: 222 30% 18%;
+    --sidebar-accent-foreground: 40 30% 90%;
+    --sidebar-border: 222 25% 25%;
+    --sidebar-ring: 40 40% 85%;
+
+    /* Custom tokens */
+    --navy-deep: 222 50% 8%;
+    --cream: 40 40% 85%;
+    --cream-light: 40 50% 92%;
+    --gold: 35 60% 65%;
+    --gold-bright: 38 70% 55%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Source Sans 3', sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+}
+
+@layer utilities {
+  .text-gradient-gold {
+    @apply bg-clip-text text-transparent;
+    background-image: linear-gradient(135deg, hsl(var(--cream)) 0%, hsl(var(--gold-bright)) 50%, hsl(var(--cream)) 100%);
+  }
+
+  .bg-navy-gradient {
+    background: linear-gradient(180deg, hsl(var(--navy-deep)) 0%, hsl(var(--background)) 100%);
+  }
+
+  .glow-gold {
+    box-shadow: 0 0 30px -5px hsl(var(--gold) / 0.3);
+  }
+
+  .border-gradient-gold {
+    border: 1px solid hsl(var(--gold) / 0.3);
+  }
+}
+
+@keyframes highlight-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 hsl(var(--gold) / 0); border-color: hsl(var(--gold) / 0.3); }
+  50% { box-shadow: 0 0 24px 6px hsl(var(--gold) / 0.5); border-color: hsl(var(--gold) / 1); }
+}
+
+.highlight-card {
+  animation: highlight-pulse 1s ease-in-out 2;
+}
