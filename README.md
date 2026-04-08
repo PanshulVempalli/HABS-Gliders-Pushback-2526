@@ -1,4 +1,4 @@
- -------------------------------- -------Panshul Vempalli's 2025/2026 Season ------------------------------------
+--- Panshul Vempalli's  2025/26 Season ---
 # HABS Gliders 34071B — VEX Pushback 2025/26
 
 ![VEX Robotics](https://img.shields.io/badge/VEX-Robotics-red) ![Season](https://img.shields.io/badge/Season-Pushback%202025%2F26-orange) ![Team](https://img.shields.io/badge/Team-34071B-blue)
