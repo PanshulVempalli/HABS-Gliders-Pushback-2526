@@ -1,4 +1,4 @@
- --------------------------------------------------Panshul Vempalli's 2025/2026 Season --------------------------------------------------
+ -------------------------------- -------Panshul Vempalli's 2025/2026 Season ------------------------------------
 # HABS Gliders 34071B — VEX Pushback 2025/26
 
 ![VEX Robotics](https://img.shields.io/badge/VEX-Robotics-red) ![Season](https://img.shields.io/badge/Season-Pushback%202025%2F26-orange) ![Team](https://img.shields.io/badge/Team-34071B-blue)
@@ -7,17 +7,6 @@ Official season repository for **HABS Gliders 34071B** competing in the VEX Robo
 
 ---
 
-## 📁 Repository Structure
-
-| Folder | Description |
-|--------|-------------|
-| `robot-code/` | Main robot code using JAR and EZ templates |
-| `autonomous/` | Prematch autonomous routines |
-| `python-tools/` | Python skills autonomous and utilities |
-| `vision/` | VEX VR simulation and vision code |
-| `docs/` | Match notes, strategy, and diagrams |
-
----
 
 ## 🤖 About the Team
 
