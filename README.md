@@ -1,4 +1,4 @@
-                                          Panshul Vempalli's 2025/2026 Season 
+                                   Panshul Vempalli's 2025/2026 Season 
 
 # HABS Gliders 34071B — VEX Pushback 2025/26
 
