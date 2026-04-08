@@ -19,6 +19,18 @@ Official season repository for **HABS Gliders 34071B** competing in the VEX Robo
 | `docs/` | Match notes, strategy, and diagrams |
 
 ---
+## 📂 Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| HABS Gliders Team Website | Official team website built with React | [View →](https://github.com/PanshulVempalli/habs-gliders-34071b) |
+| JAR Template | Advanced PID and motion control | [View →](https://github.com/PanshulVempalli/JAR-template-Example-VEX-Code) |
+| EZ Template | PROS-based robot code | [View →](https://github.com/PanshulVempalli/EZ-Template_VEX_code) |
+| Prematch Auton | Match autonomous routines | [View →](https://github.com/PanshulVempalli/VEX-V5-Prematch-Auton-Example) |
+| Python Skills | Skills run code | [View →](https://github.com/PanshulVempalli/VEX-V5-Python-Skills-Auton-Example) |
+| VEX VR | Virtual reality simulation | [View →](https://github.com/PanshulVempalli/VEX_Vr_Code_HABS-Gliders) |
+
+---
 
 ## 🤖 About the Team
 
