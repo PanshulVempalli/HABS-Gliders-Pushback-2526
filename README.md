@@ -34,7 +34,7 @@ Official season repository for **HABS Gliders 34071B** competing in the VEX Robo
 ## 📂 Projects
 
 <table>
-  <tr><th>Project</th><th>Description</th><th>Link</th></tr>
+  <tr><th width="25%">Project</th><th width="65%">Description</th><th width="10%">Link</th></tr>
   <tr><td>HABS Gliders Team Website</td><td>Official team website built with React</td><td><a href="https://github.com/PanshulVempalli/habs-gliders-34071b">View →</a></td></tr>
   <tr><td>HABS Gliders V5 Hub App</td><td>Native iOS app built for Worlds 2026 — AI strategy assistant, match tracker, and scouting tool purpose-built for Push Back</td><td><a href="https://github.com/KayanShah/Habs-Gliders-V5-Hub">View →</a></td></tr>
   <tr><td>VEX VR</td><td>Virtual reality simulation (#1 UK MS/HS, #11 Globally MS)</td><td><a href="https://github.com/PanshulVempalli/VEX_Vr_Code_HABS-Gliders">View →</a></td></tr>
@@ -43,6 +43,7 @@ Official season repository for **HABS Gliders 34071B** competing in the VEX Robo
   <tr><td>Prematch Auton</td><td>Match autonomous routines</td><td><a href="https://github.com/PanshulVempalli/VEX-V5-Prematch-Auton-Example">View →</a></td></tr>
   <tr><td>Python Skills</td><td>Skills run code</td><td><a href="https://github.com/PanshulVempalli/VEX-V5-Python-Skills-Auton-Example">View →</a></td></tr>
 </table>
+
 
 ---
 ## ❤️ Thank you
