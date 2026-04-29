@@ -46,4 +46,4 @@ Official season repository for **HABS Gliders 34071B** competing in the VEX Robo
 - Thank you to all our alliances and competitors who made this season soo fun
 - Thank you to VEX and the REC Foundation for making this season possible 
 
-*Built by Panshul Vempalli and Kayan Shaha — HABS Gliders 34071B*
+*Built by Panshul Vempalli and Kayan Shah — HABS Gliders 34071B*
