@@ -23,11 +23,11 @@ Official season repository for **HABS Gliders 34071B** competing in the VEX Robo
 ---
 
 ## 🛠️ Tech Stack
-
 - **C++** — Main robot code (JAR Template & EZ Template)
 - **Python** — Skills autonomous and VEX VR
 - **PROS** — Robot operating system for EZ Template
 - **VEX V5** — Robot hardware platform
+- **V5 Blocks** — Simple block-based programming used alongside other languages for rapid prototyping and auton testing
 
 ---
 
