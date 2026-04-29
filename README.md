@@ -1,4 +1,4 @@
---- Panshul Vempalli's  2025/26 Season ---
+
 # HABS Gliders 34071B — VEX Pushback 2025/26
 
 ![VEX Robotics](https://img.shields.io/badge/VEX-Robotics-red) ![Season](https://img.shields.io/badge/Season-Pushback%202025%2F26-orange) ![Team](https://img.shields.io/badge/Team-34071B-blue)
@@ -46,4 +46,4 @@ Official season repository for **HABS Gliders 34071B** competing in the VEX Robo
 - Thank you to all our alliances and competitors who made this season soo fun
 - Thank you to VEX and the REC Foundation for making this season possible 
 
-*Built by Panshul Vempalli — HABS Gliders 34071B*
+*Built by Panshul Vempalli and Kayan Shaha — HABS Gliders 34071B*
