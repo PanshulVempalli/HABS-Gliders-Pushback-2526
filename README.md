@@ -35,7 +35,9 @@ Official season repository for **HABS Gliders 34071B** competing in the VEX Robo
 
 | Project | Description | Link |
 |---------|-------------|------|
+https://github.com/KayanShah/Habs-Gliders-V5-Hub
 | HABS Gliders Team Website | Official team website built with React | [View →](https://github.com/PanshulVempalli/habs-gliders-34071b) |
+| HABS Gliders V5 Hub App | Native iOS app built for Worlds 2026 — AI strategy assistant, match tracker, and scouting tool purpose-built for Push Back  | [View →](https://github.com/KayanShah/Habs-Gliders-V5-Hub) |
 | JAR Template | Advanced PID and motion control | [View →](https://github.com/PanshulVempalli/JAR-template-Example-VEX-Code) |
 | EZ Template | PROS-based robot code | [View →](https://github.com/PanshulVempalli/EZ-Template_VEX_code) |
 | Prematch Auton | Match autonomous routines | [View →](https://github.com/PanshulVempalli/VEX-V5-Prematch-Auton-Example) |
