@@ -1,7 +1,11 @@
 
 # HABS Gliders 34071B — VEX Pushback 2025/26
+![VEX Robotics](https://img.shields.io/badge/VEX-Robotics-red)
+![Season](https://img.shields.io/badge/Season-Pushback%202025%2F26-orange)
+![Team](https://img.shields.io/badge/Team-34071B-blue)
+![Name](https://img.shields.io/badge/Name-HABS%20Gliders-red)
+![Contributors](https://img.shields.io/badge/Contributors-Kayan%20Shah%20%26%20Panshul%20Vempalli%202025%2F26-orange)
 
-![VEX Robotics](https://img.shields.io/badge/VEX-Robotics-red) ![Season](https://img.shields.io/badge/Season-Pushback%202025%2F26-orange) ![Team](https://img.shields.io/badge/Team-34071B-blue)
 
 Official season repository for **HABS Gliders 34071B** competing in the VEX Robotics Pushback 2025/26 season.
 
