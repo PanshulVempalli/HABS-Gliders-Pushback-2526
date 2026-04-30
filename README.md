@@ -31,18 +31,19 @@ Official season repository for **HABS Gliders 34071B** competing in the VEX Robo
 
 ---
 
-## 📂 Projects
 
+## 📂 Projects
 <table>
   <tr><th width="25%">Project</th><th width="65%">Description</th><th width="10%">Link</th></tr>
   <tr><td>HABS Gliders Team Website</td><td>Official team website built with React</td><td><a href="https://github.com/PanshulVempalli/habs-gliders-34071b">View →</a></td></tr>
   <tr><td>HABS Gliders V5 Hub App</td><td>Native iOS app built for Worlds 2026 — AI strategy assistant, match tracker, and scouting tool purpose-built for Push Back</td><td><a href="https://github.com/KayanShah/Habs-Gliders-V5-Hub">View →</a></td></tr>
+  <tr><td>Prematch Auton and Driver Code</td><td>Match autonomous routines and driver code</td><td><a href="https://github.com/PanshulVempalli/HABS-Gliders-Pushback-2526/tree/main/Kayan-%20Driver%20and%20Pre-Match%20Auton%20Code">View →</a></td></tr>
   <tr><td>VEX VR</td><td>Virtual robot simulation (#1 UK MS/HS, #11 Globally MS)</td><td><a href="https://github.com/PanshulVempalli/VEX_Vr_Code_HABS-Gliders">View →</a></td></tr>
   <tr><td>JAR Template</td><td>Advanced PID and motion control</td><td><a href="https://github.com/PanshulVempalli/JAR-template-Example-VEX-Code">View →</a></td></tr>
   <tr><td>EZ Template</td><td>PROS-based robot code</td><td><a href="https://github.com/PanshulVempalli/EZ-Template_VEX_code">View →</a></td></tr>
-  <tr><td>Prematch Auton</td><td>Match autonomous routines</td><td><a href="https://github.com/PanshulVempalli/VEX-V5-Prematch-Auton-Example">View →</a></td></tr>
   <tr><td>Python Skills</td><td>Skills run code</td><td><a href="https://github.com/PanshulVempalli/VEX-V5-Python-Skills-Auton-Example">View →</a></td></tr>
 </table>
+
 
 
 ---
