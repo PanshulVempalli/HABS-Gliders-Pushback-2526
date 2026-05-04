@@ -9,6 +9,8 @@
 
 Official season repository for **HABS Gliders 34071B** competing in the VEX Robotics Pushback 2025/26 season.
 
+
+
 ---
 
 
@@ -45,6 +47,14 @@ Official season repository for **HABS Gliders 34071B** competing in the VEX Robo
 </table>
 
 
+
+---
+
+
+## 📄 [VEXcode VR Poster](https://github.com/PanshulVempalli/HABS-Gliders-Pushback-2526/blob/main/VEXcode%20VR%20Poster.png)
+
+
+![VEXcode VR Poster](https://github.com/PanshulVempalli/HABS-Gliders-Pushback-2526/blob/main/VEXcode%20VR%20Poster.png?raw=true)
 
 ---
 ## ❤️ Thank you
